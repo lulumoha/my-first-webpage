@@ -1,0 +1,22 @@
+body{
+  background-color: #80ff00;
+  background-image: url("nature.jpg");
+  background-repeat: no-repeat;
+  font-weight: bolder;
+  background-size: cover;
+}
+
+.nice {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bolder;
+  margin: center;
+}
+
+.footer {
+  color: #40ff00;
+  background-color: #000000;
+  align-content: bottom;
+  float: center;
+  margin: 400px;
+}
